@@ -1,0 +1,83 @@
+div{
+  background-color: #ddf3f5;
+  height: auto;
+  margin-top: 0px;
+}
+
+h1{
+    display: block;
+    font-size: 2em;
+    align-content: center;
+    padding: 5px 5px 0px 5px;
+    margin-top:5%;
+    font-family:'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+body{
+  margin:0px;
+  text-align: center;
+  font-family:'Merriweather', serif;
+}
+.topContainer{
+
+  background-color: #effffb;
+  align-content: center;
+  position:relative;
+  padding-top:100px;
+
+}
+.middleContainer{
+  width: 200px;
+  height:200px;
+  background-color: red;
+  align-content: center;
+  border:solid;
+  border-width: 5px;
+  padding:10px;
+  margin-right: 210p
+}
+
+.bottomContainer{
+  width: 200px;
+  height:200px;
+  margin:20px;
+  padding:10px;
+  border-width:5px;
+  border-style:solid;
+  background-color: navy;
+}
+#box1{
+  margin-left: 5px;
+  padding: 0px 0px 5px 5px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.bottomCloud{
+  position: absolute;
+  left:220px;
+  bottom:300px;
+}
+.topCloud{
+  position: absolute;
+  top:100px;
+  right:220px;
+}
+.photo{
+  width:200px;
+  height:200px;
+  border-radius: 100px;
+  
+}
